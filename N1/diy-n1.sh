@@ -44,9 +44,9 @@ rm -rf feeds/luci/applications/luci-app-{lucky,mosdns,nikki,openclash,openlist,o
 #  ============================================================
 # 克隆 Passwall 2
 # ============================================================
-log "克隆 Passwall 2"
-git clone --depth=1 https://github.com/Openwrt-Passwall/openwrt-passwall-packages.git package/passwall-packages
-git clone --depth=1 https://github.com/Openwrt-Passwall/openwrt-passwall2.git package/passwall2
+#log "克隆 Passwall 2"
+#git clone --depth=1 https://github.com/Openwrt-Passwall/openwrt-passwall-packages.git package/passwall-packages
+#git clone --depth=1 https://github.com/Openwrt-Passwall/openwrt-passwall2.git package/passwall2
 
 # ============================================================
 # 克隆第三方插件
